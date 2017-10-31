@@ -1,0 +1,16 @@
+---
+title: "HW10.1"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+filler
+```{r}
+x = c(1,2,3)
+y = c(2,4,6)
+lm.out = lm(y~x)
+lm.out
+```
