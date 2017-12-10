@@ -1,0 +1,1 @@
+cat('Hello. I am a being on Earth. There are about 75,000,000,000 of us on Earth. We live in a society divided into countries, cities, and many more. What is your society like? How big is your group? What are some major technology developments? What do you know about the solar system?')
